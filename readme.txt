@@ -1,5 +1,10 @@
 http://colab.google.com
 
+#config colab for gpu
+# -> connect
+# -> change runtime type
+# -> set to T4 GPU
+# -> "+ code" to get notebook prompt
 
 
 !pip install colab-xterm
